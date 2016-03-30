@@ -1,0 +1,84 @@
+
+header h1, footer p {
+	margin: 0;
+	padding: 40px 0px;
+}
+
+
+header {
+	background-color: #D03428;
+	color: #fff;
+	margin-bottom: 30px;
+}
+
+footer {
+	background-color: #D03428;
+	color: #fff;
+	margin-top: 30px;
+}
+
+footer a {
+	color: #fff;
+}
+
+footer a:hover {
+	color: #fff;
+}
+
+/*image & glyphicon*/
+.feature {
+	float: left;
+	margin-right: 15px;
+}
+
+.glyphicon {
+	padding-right: 3px;
+}
+
+
+/*nav & form section*/
+.fixed {
+	position: fixed;
+}
+
+form.fixed {
+	margin-top: 100px;
+}
+
+ul.nav {
+	margin-top: 30px;
+	z-index: 1;
+}
+
+ul.nav a {
+	color: #D03428;
+	background-color: #FCEA6A;
+	width: 80px;
+	text-align: center;
+}
+
+ul.nav a:hover {
+	color: #FCEA6A;
+	background-color: #D03428;
+}
+
+form {
+	padding-top: 100px;
+	color: #D03428;
+}
+
+.form-control:focus {
+	border-color:#D03428;
+	box-shadow: none;
+}
+
+form button.btn {
+	color: #D03428;
+	background-color: #FCEA6A;
+	text-align: center;
+}
+
+form button.btn:hover {
+	color: #FCEA6A;
+	background-color: #D03428;
+}
